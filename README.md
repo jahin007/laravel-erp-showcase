@@ -38,5 +38,5 @@ The system is currently in production use and includes multiple core modules for
 > Add screenshots using the following syntax:
 
 ```markdown
-![Dashboard Screenshot](screenshots/dashboard.png)
+![ERM Screenshot](Screenshot 2025-07-28 151813.png)
 ![Invoice Page](screenshots/invoice.png)
