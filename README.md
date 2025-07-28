@@ -40,4 +40,4 @@ The system is currently in production use and includes multiple core modules for
 ```markdown
 ![Dashboard](https://raw.githubusercontent.com/jahin007/laravel-erp-showcase/main/Screenshot%202025-07-28%20151539.png)
 ![Invoice](https://raw.githubusercontent.com/jahin007/laravel-erp-showcase/main/Screenshot%202025-07-28%20151709.png)
-![Return System](https://raw.githubusercontent.com/jahin007/laravel-erp-showcase/main/Screenshot%202025-07-28%20151813.png)
+!ERM System](https://raw.githubusercontent.com/jahin007/laravel-erp-showcase/main/Screenshot%202025-07-28%20151813.png)
